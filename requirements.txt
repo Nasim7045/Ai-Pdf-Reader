@@ -1,0 +1,12 @@
+Requirements
+Python 3.x
+Required libraries:
+google-generativeai (for interacting with the Google Generative AI API)
+speechrecognition (for speech-to-text conversion)
+pyttsx3 (for text-to-speech functionality)
+PyMuPDF (for extracting text from PDFs)
+You can install the required libraries using pip:
+
+bash
+Copy code
+pip install google-generativeai speechrecognition pyttsx3 PyMuPDF
